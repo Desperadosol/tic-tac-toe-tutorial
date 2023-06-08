@@ -83,6 +83,8 @@ body {
 
 .status {
   margin-bottom: 10px;
+  padding-left: calc(0.25*var(--square-size));
+  font-size: calc(0.4*var(--square-size));
 }
 .game {
   display: flex;
